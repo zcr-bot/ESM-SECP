@@ -1,0 +1,27 @@
+version https://git-lfs.github.com/spec/v1
+oid sha256:da82a15e13b7163aef0def74f6e4e6fc5d1531269562e557084403ff032e62fb
+size 39
+feature/129/all_embeddings.pkl filter=lfs diff=lfs merge=lfs -text
+feature/129/pssmfeature.pkl filter=lfs diff=lfs merge=lfs -text
+feature/46/all_embeddings.pkl filter=lfs diff=lfs merge=lfs -text
+feature/46/pssmfeature.pkl filter=lfs diff=lfs merge=lfs -text
+feature/573/all_embeddings.pkl filter=lfs diff=lfs merge=lfs -text
+feature/573/pssmfeature.pkl filter=lfs diff=lfs merge=lfs -text
+feature/646/all_embeddings.pkl filter=lfs diff=lfs merge=lfs -text
+feature/646/pssmfeature.pkl filter=lfs diff=lfs merge=lfs -text
+*.md filter=lfs diff=lfs merge=lfs -text
+/raw[[:space:]]data/raw[[:space:]]data filter=lfs diff=lfs merge=lfs -text
+*.fasta filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.py filter=lfs diff=lfs merge=lfs -text
+/hh-suite[[:space:]]result/1 filter=lfs diff=lfs merge=lfs -text
+/hh-suite[[:space:]]result/46/1 filter=lfs diff=lfs merge=lfs -text
+*.a3m filter=lfs diff=lfs merge=lfs -text
+*.hhm filter=lfs diff=lfs merge=lfs -text
+*.hhr filter=lfs diff=lfs merge=lfs -text
+/hh-suite[[:space:]]result/129/1 filter=lfs diff=lfs merge=lfs -text
+/result/cnn filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+/data/46/1 filter=lfs diff=lfs merge=lfs -text
+/data/1 filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
